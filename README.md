@@ -1,0 +1,2 @@
+# pancake-clicker
+DO NOT REDISTRIBUTE THIS OR WHATEVER
