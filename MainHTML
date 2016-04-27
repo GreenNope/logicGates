@@ -1,19 +1,11 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<link rel="stylesheet" type="text/css" href="test.css" />
 </head>
 <body>
-<style media="screen" type="text/css">
-
-.sqbutton {
-
-  border:
-
-}
-
-</style>
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
+<h3> A White Header </h3>
+<p> This paragraph has a blue font.  
+The background color of this page is gray because
+we changed it with CSS! </p>
 </body>
+</html>
